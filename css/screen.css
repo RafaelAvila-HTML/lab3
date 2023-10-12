@@ -205,6 +205,12 @@ h1{
   padding-bottom: 1.182em; 
 }
 
+p{
+  text-align: center;
+  padding-bottom: 1.182em; /* 26px / ~ 120% */
+  /* adds "modular" padding between each p tag */
+}
+
 label {
   display: block;
 }
