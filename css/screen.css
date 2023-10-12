@@ -229,7 +229,7 @@ input {
 }
 
 input[type="email"] {
-  width: 50%;
+  width: 35%;
   height: 1.182em; /* 26px / ~ 120% */
   padding: 22px;
   background-color: #b5b5b5;
