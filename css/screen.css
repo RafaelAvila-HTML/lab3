@@ -228,6 +228,12 @@ input {
   background-color: #6e6a60;
 }
 
+input[type="email"] {
+  width: 50%;
+  height: 1.182em; /* 26px / ~ 120% */
+  padding: 26px;
+}
+
 /* ===== LAYOUT STYLES ====== */
 
 
