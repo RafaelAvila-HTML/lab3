@@ -243,6 +243,12 @@ input[type="checkbox"] {
   border-radius: 4px;
 }
 
+input[type="submit"] {
+  width: 200px;
+  border-radius: 10px;
+  background-color: #373637;
+  color: #FFFFFF;
+}
 /* ===== LAYOUT STYLES ====== */
 
 
