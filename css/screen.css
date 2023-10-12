@@ -231,7 +231,7 @@ input {
 input[type="email"] {
   width: 50%;
   height: 1.182em; /* 26px / ~ 120% */
-  padding: 30px;
+  padding: 22px;
   background-color: #b5b5b5;
 }
 
