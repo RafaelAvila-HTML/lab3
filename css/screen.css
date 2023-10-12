@@ -239,15 +239,15 @@ input[type="checkbox"] {
   height: 1em;
   width: 1em;
   background-color: #DDD;
-  border: 2px solid #8a8a8a;
+  border: 2px solid #242420;
   border-radius: 4px;
 }
 
 input[type="submit"] {
   width: 200px;
   border-radius: 10px;
-  background-color: #373637;
-  color: #FFFFFF;
+  background-color: #40403f;
+  color: #9c9c9c;
 }
 /* ===== LAYOUT STYLES ====== */
 
