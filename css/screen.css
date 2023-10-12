@@ -232,7 +232,7 @@ input[type="email"] {
   width: 50%;
   height: 1.182em; /* 26px / ~ 120% */
   padding: 26px;
-  color: #b5b5b5;
+  background-color: #b5b5b5;
 }
 
 input[type="checkbox"] {
